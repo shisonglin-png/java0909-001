@@ -1,4 +1,4 @@
-//。。。。。。。。。。。。。。修改的注释。。。。。。。。
+//。。。。。。。。。。。。。。修改的注释111。。。。。。。。
 hello class  
 {
 	public static void main(String[] args) 
